@@ -17,7 +17,7 @@ function longestPalindrome(s) {
       }
       left--
       right++
-    }
+    } 
   }
 
   for (let i = 0; i < s.length; i++) {
